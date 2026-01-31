@@ -1,6 +1,6 @@
 version: "3.3"
 services:
   web:
-    image: nginx
+    image: "baldevganava260-design/django-notes-app:latest"
     ports:
       - "8000:8000"
